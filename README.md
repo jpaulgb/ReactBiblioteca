@@ -2,7 +2,7 @@
 
 > Una aplicación web hecha con React para explorar, gestionar y organizar libros. 📚 Aún en desarrollo 👷‍♂️
 
-Este proyecto busca construir una interfaz amigable para la gestión de libros: búsqueda, almacenamiento, categorías, comentarios, favoritos y más. ¡Es ideal para practicar React y construir algo útil!
+Este proyecto busca construir una interfaz amigable para la gestión de libros. Utiliza los Hoocks basicos de React, React UseState y React UseEffect ¡Es ideal para practicar React y construir algo útil!
 
 Está en fase inicial de desarrollo, por lo que **¡tu ayuda es muy valiosa!**
 
@@ -11,11 +11,15 @@ Está en fase inicial de desarrollo, por lo que **¡tu ayuda es muy valiosa!**
 ## 🧩 ¿Qué ofrece esta app?
 
 - 📚 Explorar una lista de libros
-- 🔍 Buscar y filtrar libros
-- ⭐ Marcar libros como favoritos
-- 🗂️ Organizar libros por categorías o autores
-- ✏️ Agregar/editar libros manualmente (en proceso)
-- 📝 Dejar reseñas o notas personales (futuras funcionalidades)
+- 🚀 Uso de Hooks
+- ⭐ Uso de props para comunicarse entre componentes
+
+---
+
+## 🔍 Aprende más sobre los Hooks en React
+
+https://legacy.reactjs.org/docs/hooks-intro.html
+https://www.w3schools.com/react/react_hooks.asp
 
 ---
 
@@ -23,11 +27,8 @@ Está en fase inicial de desarrollo, por lo que **¡tu ayuda es muy valiosa!**
 
 - [React](https://reactjs.org/ )
 - [Vite](https://vitejs.dev/ ) (entorno de desarrollo)
-- [TypeScript] (opcional, puedes usar JavaScript también)
-- [Tailwind CSS / Bootstrap / Material UI] (según tu estilo elegido)
-- [React Router] (para navegación entre páginas)
-- [LocalStorage / Firebase / API externa] (según el tipo de almacenamiento)
-
+- Bootstrap 
+- simulacion de API con un archivo .JSON
 ---
 
 ## 🛠️ Instalación local
@@ -35,4 +36,4 @@ Está en fase inicial de desarrollo, por lo que **¡tu ayuda es muy valiosa!**
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/react-app-libros.git 
+git clone https://github.com/jpaulgb/ReactBiblioteca.git
